@@ -1,6 +1,5 @@
 #!/bin/bash
 
-echo "Welcome to PathwayAssessor"
 read -e -p 'Expression table: ' EXPRESSION_TABLE
 read -p 'Activation or Suppression score (a/s): ' ASCENDING
 
